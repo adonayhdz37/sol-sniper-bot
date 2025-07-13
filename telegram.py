@@ -41,7 +41,7 @@ def button(update: Update, context: CallbackContext) -> None:
 
 def main():
     # Pon aquí el token de tu bot
-    TOKEN = "TU_TOKEN_DE_TELEGRAM_AQUI"
+    TOKEN = "7883250643:AAHZDvbc6ZnBC7RVds6txI1rxKTAgCjHXWY"
 
     updater = Updater(TOKEN, use_context=True)
 
